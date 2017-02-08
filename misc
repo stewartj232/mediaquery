@@ -1,0 +1,67 @@
+*/ working class margin for centering/*
+.bitch{
+  margin: auto;
+  width:100%;
+  text-align: center;
+}
+
+
+
+
+
+*/ positioning for the pictures starts at line 20/*
+
+#jiffy {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    text-align: center;
+}
+#lci {
+    position: absolute;
+    top: 80px;
+    left: 300px;
+    text-align: center;
+}
+#mcc {
+    position: absolute;
+    top: 80px;
+    left: 600px;
+    text-align: center;
+}
+#got {
+    position: absolute;
+    top: 375px;
+    left: 0;
+    text-align: center;
+}
+#billions {
+    position: absolute;
+    top: 375px;
+    left: 300px;
+    text-align: center;
+}
+#shameless {
+    position: absolute;
+    top: 375px;
+    left: 600px;
+    text-align: center;
+}
+#lions {
+    position: absolute;
+    top: 750px;
+    left: 0;
+    text-align: center;
+}
+#pistons {
+    position: absolute;
+    top: 750px;
+    left: 300px;
+    text-align: center;
+}
+#tigers{
+    position: absolute;
+    top: 750px;
+    left: 600px;
+    text-align: center;
+}

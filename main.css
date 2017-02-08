@@ -1,0 +1,73 @@
+.bitch{
+  margin: auto;
+  width:100%;
+  text-align: center;
+}
+.bitch figure{
+  display:inline-block;
+}
+#food figure{
+  margin: 50 auto 10px auto;
+  padding: 20px;
+  margin: 70px auto 30px auto;
+  border: 5px dashed black;
+  background-color: red;
+}
+#shows figure{
+  margin: 50 auto 10px auto;
+  padding: 10px;
+  margin: 30px auto 30px auto;
+  border: 5px solid black;
+}
+#teams figure{
+  margin: 50 auto 10px auto;
+  padding: 10px;
+  margin: 30px auto 30px auto;
+  border: 5px double black;
+  background-color: blue;
+}
+#eyes {
+  position: fixed; top:0px;
+  right:0px;
+}
+
+#header {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:20px;
+  text-align: center;
+}
+#footer {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:5px;
+  text-align: center;
+}
+p{
+  width:300px
+}
+img{
+  width:300;
+}
+@media(max-width: 1200px) {
+  body{
+    background-color: black;
+  }
+}
+
+@media(max-width: 500px) {
+  body{
+    background-color: orange;
+}
+  figure {
+    display: block;
+  }
+}
